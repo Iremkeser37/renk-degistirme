@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\İREM\resim ornek\resim ornek\bin\Debug\resim ornek.exe.config
+C:\Users\User\Desktop\KORUMASIZ\İREM\resim ornek\resim ornek\bin\Debug\resim ornek.exe
+C:\Users\User\Desktop\KORUMASIZ\İREM\resim ornek\resim ornek\bin\Debug\resim ornek.pdb
+C:\Users\User\Desktop\KORUMASIZ\İREM\resim ornek\resim ornek\obj\Debug\resim ornek.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM\resim ornek\resim ornek\obj\Debug\resim ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM\resim ornek\resim ornek\obj\Debug\resim_ornek.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\İREM\resim ornek\resim ornek\obj\Debug\resim_ornek.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\İREM\resim ornek\resim ornek\obj\Debug\resim ornek.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM\resim ornek\resim ornek\obj\Debug\resim ornek.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM\resim ornek\resim ornek\obj\Debug\resim ornek.exe
+C:\Users\User\Desktop\KORUMASIZ\İREM\resim ornek\resim ornek\obj\Debug\resim ornek.pdb
